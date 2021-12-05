@@ -7,6 +7,6 @@ Simply modify the "url" to equal the repository you want to scrape and the outpu
 
 ## Required Packages
 
-BeautifulSoup
-urllib
-datetime
+- BeautifulSoup
+- urllib
+- datetime
